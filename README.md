@@ -16,3 +16,6 @@
 - **Darstellungs- oder Berichtsseite**: Ermöglicht Forschenden und Studierenden einen einfachen Zugang zu den archivierten Inhalten und Einblick in die interdisziplinäre Diskussion.
 - **Projektdokumentation**: Beschreibt den Prozess der Inhaltsarchivierung und -darstellung und unterstützt andere bei der Nutzung dieses Tools zur Mastodon-Datenarchivierung.
 
+### Neuer Plan
+Ich bin offen dafür, mich einer Gruppe anzuschließen, die sich mit der Social-Media-Content-Sicherung beschäftigt. Gerne würde ich mich zum Beispiel Lukas' Projekt über die Dokumentation von Flüchtlingsthemen anschließen. Die genaue Entscheidung können wir in der nächsten Stunde gemeinsam besprechen.
+

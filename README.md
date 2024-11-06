@@ -17,5 +17,5 @@
 - **Projektdokumentation**: Beschreibt den Prozess der Inhaltsarchivierung und -darstellung und unterstützt andere bei der Nutzung dieses Tools zur Mastodon-Datenarchivierung.
 
 ### Neuer Plan
-Ich bin offen dafür, mich einer Gruppe anzuschließen, die sich mit der Social-Media-Content-Sicherung beschäftigt. Gerne würde ich mich zum Beispiel Lukas' Projekt über die Dokumentation von Flüchtlingsthemen anschließen. Die genaue Entscheidung können wir in der nächsten Stunde gemeinsam besprechen.
+Ich schließe mich Lukas' Gruppe an (https://docs.google.com/document/d/1B36Uj57w-VqH62iJ934Ofs8LoUilXhwzBcVswwiAD20/edit?tab=t.0). Wir planen, die öffentliche Stimmung zur Flüchtlingskrise zu analysieren und mit Medien- und Politikermeinungen zu vergleichen. Dabei sollen Methoden wie Sentiment-Analyse und zeitliche Einordnung der Daten eingesetzt werden. Ich werde bei der Datensammlung und Auswertung mithelfen.
 

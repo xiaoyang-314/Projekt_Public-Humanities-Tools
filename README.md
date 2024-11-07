@@ -1,3 +1,8 @@
+### Neuer Plan
+Ich schließe mich Lukas' Gruppe an (https://docs.google.com/document/d/1B36Uj57w-VqH62iJ934Ofs8LoUilXhwzBcVswwiAD20/edit?tab=t.0). 
+
+
+
 # MastoArchive: Mastodon Wissenschaftliche Inhalte Archivierung und Darstellung
 
 ### Projektziele
@@ -16,5 +21,4 @@
 - **Darstellungs- oder Berichtsseite**: Ermöglicht Forschenden und Studierenden einen einfachen Zugang zu den archivierten Inhalten und Einblick in die interdisziplinäre Diskussion.
 - **Projektdokumentation**: Beschreibt den Prozess der Inhaltsarchivierung und -darstellung und unterstützt andere bei der Nutzung dieses Tools zur Mastodon-Datenarchivierung.
 
-### Neuer Plan
-Ich schließe mich Lukas' Gruppe an (https://docs.google.com/document/d/1B36Uj57w-VqH62iJ934Ofs8LoUilXhwzBcVswwiAD20/edit?tab=t.0). 
+
